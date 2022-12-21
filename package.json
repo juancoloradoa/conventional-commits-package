@@ -1,5 +1,5 @@
 {
-    "name": "Conventional Commits",
+    "name": "conventional-commits",
     "private": true,
     "scripts": {
         "dev": "npm run development",
