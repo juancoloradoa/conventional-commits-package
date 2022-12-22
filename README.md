@@ -8,4 +8,4 @@
 
 ## Conventional Commit and integrate semantic release
 
-here is a test to validate the conventional-commits and add semantic-release to it
+here is a test to validate the conventional-commits and add semantic-release
