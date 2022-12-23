@@ -19,4 +19,4 @@ Route::get('/', function () {
 });
 
 Route::resource('user', UserController::class)
-    ->only(['index', 'store']);
+    ->only(['index', 'store', 'edit']);

@@ -19,4 +19,9 @@ class UserController extends Controller
     {
         return redirect()->route('user.index');
     }
+
+    public function edit(User $user): View
+    {
+        return \view('users.edit', compact('user'));
+    }
 }
