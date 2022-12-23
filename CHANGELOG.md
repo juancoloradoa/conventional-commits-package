@@ -1,3 +1,13 @@
+# [1.3.0](https://github.com/juancoloradoa/conventional-commits-package/compare/v1.2.0...v1.3.0) (2022-12-23)
+
+
+### Features
+
+* **users:** add edit for users ([dc48329](https://github.com/juancoloradoa/conventional-commits-package/commit/dc4832946b5bcafe664748e41b99ac315bba7c57))
+* **users:** add edit into web users ([ab21b7d](https://github.com/juancoloradoa/conventional-commits-package/commit/ab21b7dfd226644b5a651bf3bded942330484665))
+* **users:** add only index and store route for UserController ([11f2c47](https://github.com/juancoloradoa/conventional-commits-package/commit/11f2c4752eeac923b8713c1227397602ca5165a6))
+* **users:** add store to the UserController ([8892550](https://github.com/juancoloradoa/conventional-commits-package/commit/8892550f1a0130d274af2fa4d89df74f49b9adfa))
+
 # [1.2.0](https://github.com/juancoloradoa/conventional-commits-package/compare/v1.1.0...v1.2.0) (2022-12-22)
 
 
